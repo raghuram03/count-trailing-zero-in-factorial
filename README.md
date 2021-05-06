@@ -13,7 +13,6 @@ class trailing {
 public class Main
 {
 	public static void main(String[] args) {
-		System.out.println("Hello World");
 		int n=4;
 		long fact=1;
 		for(int i=n;i>=1;i--)
